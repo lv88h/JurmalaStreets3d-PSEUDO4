@@ -1,5 +1,10 @@
 # JurmalaStreets3d
 3d web browser game
+**************************CURRENT ISSUES --
+THIS LINE ON 571 AT gamenew.php has to update player positions in interval..
+	//setInterval(function (man) {
+BUT this.man.position.set CAN'T BE ACCESED INSIDE OF INTERVAL.
+***************************
 
 
 DEMO PAGE - http://jurmalastreets.bounceme.net/game.php

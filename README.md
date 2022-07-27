@@ -17,7 +17,7 @@ CODE - http://jurmalastreets.bounceme.net/code.txt
 
 PROJECT DOCUMENTATION - http://mytechservinginternetmeals.blogspot.com/2022/02/video-game-development-4.html
 
-PROJECT FILES ON DROPBOX - https://www.dropbox.com/s/r1m2ulne03jfmdp/www_MAZITIS.zip?dl=0
+PROJECT FILES ON DROPBOX - https://www.dropbox.com/s/e476zzr0grji95r/www_MAZITIS26JULY4.zip?dl=0
 
 game.sql sample database - https://drive.google.com/file/d/1nBp6Zc8jyJ2-Xuyy4oQj6Em4GvTSlDbT/view?usp=sharing
 
